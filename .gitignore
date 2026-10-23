@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+
+# HA local backups / secrets
+backup_*/
+*.bak
+*.bak_*
+.storage/
+secrets.yaml

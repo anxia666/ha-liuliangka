@@ -1,0 +1,7 @@
+{
+  "name": "随身WiFi 流量卡统计",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2023.9.0",
+  "zip_release": false
+}
